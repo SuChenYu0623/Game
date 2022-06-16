@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Game/static/css/main.3873e883.css",
+    "main.js": "/Game/static/js/main.7fcb8e26.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Game/static/js/787.28cb0dcd.chunk.js",
+    "static/media/snake.png": "/Game/static/media/snake.e32880d54703e8836ac2.png",
+    "static/media/apple.png": "/Game/static/media/apple.df21fd2340930e15c6e6.png",
+    "static/media/arrowkey_right.png": "/Game/static/media/arrowkey_right.0b8a85093b8c83c185d5.png",
+    "index.html": "/Game/index.html",
+    "main.3873e883.css.map": "/Game/static/css/main.3873e883.css.map",
+    "main.7fcb8e26.js.map": "/Game/static/js/main.7fcb8e26.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Game/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3873e883.css",
+    "static/js/main.7fcb8e26.js"
+  ]
+}
